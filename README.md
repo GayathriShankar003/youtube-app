@@ -5,4 +5,4 @@ In this python project, we will build a grocery store management application. It
 3. Database: Replit's database
 4. API: Youtube API
 
-![](youtube.jpg)
+![](youtube.png)
